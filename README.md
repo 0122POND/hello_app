@@ -1,5 +1,7 @@
 # Ruby on Rails Tutorial
 
+Rails tutorialでのサンプルアプリの１つ。
+
 ## "hello, world!"
 
 This is the first application for the
